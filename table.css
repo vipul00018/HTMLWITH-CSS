@@ -1,0 +1,16 @@
+img{}
+table{
+    border: 5px solid;
+    border-collapse: collapse;
+    size: 10px;
+}
+body{
+    background-image: url(f7.jpg);
+    background-size: cover;
+   
+
+}
+#Dishes tr:hover {background-color: azure;
+}
+tr:nth-child(even){background-color: antiquewhite;}
+tr:nth-child(odd){background-color: rgb(179, 159, 79);}
